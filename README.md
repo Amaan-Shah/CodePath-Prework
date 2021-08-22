@@ -1,2 +1,2 @@
-# CodePath-Prework
- Prework Tip Calculator Project
+# Prework-TipCalculator
+ CodePath Prework Project
