@@ -33,8 +33,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+Challenges while building the app:
+-Figuring out how Github works
 
 ## License
 
