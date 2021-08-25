@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tip-calculator](https://user-images.githubusercontent.com/89225202/130708898-ed8e0356-e6e8-47cf-ab0a-60ee20eec591.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [ezgif](ezgif.com/video-to-gif).
 
 ## Notes
 Challenges while building the app:
